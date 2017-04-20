@@ -4,7 +4,7 @@ http.createServer(function(request, response){
 	console.log('Er was een request.');
 	response.writeHead(200, {'Content-Type': 'text/json'});
 	var json = JSON.stringify({
-		tekst: "Dit is JSON!"
+		tekst: "Dit is saai"
 	});
 	response.end(json);
 }).listen(3000);
