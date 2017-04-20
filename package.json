@@ -1,0 +1,24 @@
+{
+  "name": "eersteserver",
+  "version": "1.0.0",
+  "description": "eerste gemaakte server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrpelkma/node-eersteserver.git"
+  },
+  "keywords": [
+    "node",
+    "server"
+  ],
+  "author": "Ramon Pelkmans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rrpelkma/node-eersteserver/issues"
+  },
+  "homepage": "https://github.com/rrpelkma/node-eersteserver#readme"
+}
