@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/rrpelkma/node-eersteserver/issues"
   },
-  "homepage": "https://github.com/rrpelkma/node-eersteserver#readme"
+  "homepage": "https://github.com/rrpelkma/node-eersteserver#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
